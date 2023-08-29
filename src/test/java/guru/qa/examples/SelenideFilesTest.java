@@ -1,4 +1,4 @@
-package guru.qa.tests;
+package guru.qa.examples;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.xlstest.XLS;
